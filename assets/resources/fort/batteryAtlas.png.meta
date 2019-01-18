@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "08b7c117-7ae4-428e-9e17-b7fb0738130f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "batteryAtlas": {
+      "ver": "1.0.3",
+      "uuid": "d2ce5a04-29a0-4847-a2d0-9b2cf7a67df2",
+      "rawTextureUuid": "08b7c117-7ae4-428e-9e17-b7fb0738130f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1001,
+      "height": 429,
+      "rawWidth": 1005,
+      "rawHeight": 433,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
